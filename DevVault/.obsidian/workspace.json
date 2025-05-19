@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "e1b84e76b0c26947",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ede5595a850b4ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd86a8da10856007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.- Indexes/Learning .NET.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Learning .NET"
+            }
+          },
+          {
+            "id": "ac5a2753bfbbe52e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fae7aee42ec43347",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fca44e419999c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a642ef029c56c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "05e31cbbd838bd6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "167faae05d6d0b18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ac41eecc37f21b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b74a922e335f87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b9d73e822ce521b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5.- Templates/Full Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Full Note"
+            }
+          },
+          {
+            "id": "29d640cff0a721c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5.- Templates/Full Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Full Note"
+            }
+          },
+          {
+            "id": "0c0d493ea90f5957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23fbb217f7228db9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5.- Templates/Full Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Full Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "bd86a8da10856007",
+  "lastOpenFiles": [
+    "3.- Indexes/Backend.md",
+    "3.- Indexes/Learning .NET.md",
+    "5.- Main Notes/What is JSON.md",
+    "5.- Main Notes/What is Dependency Injection.md",
+    "5.- Main Notes/What is a Controller.md",
+    "5.- Main Notes/What is a Service.md",
+    "5.- Main Notes/What is a Repository.md",
+    "5.- Main Notes/What is a DTO.md",
+    "5.- Main Notes/What is a Model.md",
+    "5.- Main Notes/What is Backend.md",
+    "3.- Indexes/Coding.md",
+    "5.- Main Notes/Concurrency vs Parallelism.md",
+    "5.- Main Notes/What is parallelism.md",
+    "5.- Main Notes/What is concurrency.md",
+    "What is concurrency.md",
+    "5.- Main Notes/What is polymorphism.md",
+    "6.- Main Notes/What is polymorfims.md",
+    "3.- Tags/Tags.md",
+    "5.- Main Notes/Differences between .Length, .Count y GetLength.md",
+    "6.- Configurations/Configurations.md",
+    "2.- Source Material/images/NewNotes.png",
+    "2.- Source Material/images/ComunityPlugins1.png",
+    "2.- Source Material/images/Backlinks.png",
+    "2.- Source Material/images",
+    "1.- Rough Notes/Reminders.md",
+    "5.- Main Notes/What is object oriented programming.md",
+    "6.- Main Notes/Learning .NET.md",
+    "5.- Main Notes/What is functional programming.md",
+    "5.- Main Notes/HTTP Codes.md",
+    "5.- Main Notes/What is HTTP.md",
+    "4.- Indexes/C Sharp",
+    "2.- Source Material/images/InsertTemplate.png",
+    "8.- Assets",
+    "6.- Configurations",
+    "5.- Main Notes",
+    "4.- Templates",
+    "3.- Indexes",
+    "3.- Tags",
+    "2.- Source Material",
+    "1.- Rough Notes"
+  ]
+}
