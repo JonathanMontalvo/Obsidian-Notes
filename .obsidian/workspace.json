@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "151fcdae9e8ee4f0",
+            "id": "55954a6dc9e6e52a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular & .Net Notes/2.- Indexes/Angular.md",
+                "file": "DevVault/3.- Indexes/Time Managment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Angular"
+              "title": "Time Managment"
             }
           },
           {
-            "id": "c11f38c2162fd952",
+            "id": "fcb83fcd6b6624b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular & .Net Notes/5.- Main Notes/Reactive Forms.md",
+                "file": "Angular & .Net Notes/2.- Indexes/Net.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reactive Forms"
+              "title": "Net"
+            }
+          },
+          {
+            "id": "747907fcb9bc0e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular & .Net Notes/5.- Main Notes/WebForms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WebForms"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,24 +276,39 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c11f38c2162fd952",
+  "active": "747907fcb9bc0e00",
   "lastOpenFiles": [
-    "Angular & .Net Notes/5.- Main Notes/Reactive Forms.md",
+    "Angular & .Net Notes/5.- Main Notes/WebForms.md",
+    "Angular & .Net Notes/2.- Indexes/Net.md",
+    "DevVault/3.- Indexes/Learning .NET.md",
+    "DevVault/5.- Main Notes/Creating timing in project.md",
+    "Cambios Speedcards.pdf",
+    "Cambios Speedcards.mpp",
+    "DevVault/2.- Source Material/images/EDT.png",
+    "DevVault/3.- Indexes/Time Managment.md",
+    "DevVault/2.- Source Material/images/gridOptions.png",
+    "DevVault/2.- Source Material/images/grid.png",
+    "DevVault/2.- Source Material/images/temporalScale.png",
+    "Pasted image 20250608171507.png",
+    "DevVault/2.- Source Material/images/howToConfigurateTemScale.png",
+    "Angular & .Net Notes/5.- Main Notes/Interface y Service.md",
+    "DevVault/2.- Source Material/images/howToConfigurateTemScale.png",
+    "DevVault/2.- Source Material/images/startDate.png",
+    "DevVault/2.- Source Material/images/DailyWorkSchedule.png",
+    "DevVault/2.- Source Material/images/workweek.png",
     "Angular & .Net Notes/2.- Indexes/Angular.md",
+    "Angular & .Net Notes/5.- Main Notes/Reactive Forms.md",
     "Angular & .Net Notes/5.- Main Notes/Component using a service.md",
     "Angular & .Net Notes/5.- Main Notes/Observable.md",
-    "Angular & .Net Notes/5.- Main Notes/Interface y Service.md",
     "Angular & .Net Notes/5.- Main Notes/Angular Material.md",
     "Angular & .Net Notes/5.- Main Notes/Api Connection.md",
     "Angular & .Net Notes/5.- Main Notes/Create things.md",
-    "DevVault/3.- Indexes/Learning .NET.md",
     "DevVault/3.- Indexes/Coding.md",
     "DevVault/3.- Indexes/Backend.md",
     "Angular & .Net Notes/5.- Main Notes/Project structure.md",
     "Angular & .Net Notes/3.- Templates/Full Note.md",
     "DevVault/6.- Configurations/Configurations.md",
     "Angular & .Net Notes/Welcome.md",
-    "Angular & .Net Notes/2.- Indexes/Net.md",
     "DevVault/4.- Templates/Full Note.md",
     "README.md",
     "Angular & .Net Notes/5.- Main Notes",

@@ -37,5 +37,3 @@
 
 # Concurrency in C# .NET
 [[Coding#Concurrency]]
-
-
